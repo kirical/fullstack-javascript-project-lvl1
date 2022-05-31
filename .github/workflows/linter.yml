@@ -1,5 +1,5 @@
 # file: .github/workflows/hello-world.yml
-name: hello-world
+name: eslint
 # on – определяет события, которые запускают воркфлоу
 on: push
 jobs:

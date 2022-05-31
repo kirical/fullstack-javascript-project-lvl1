@@ -1,3 +1,7 @@
+###GitHub Actions
+![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+
+
 ### CodeClimate
 <a href="https://codeclimate.com/github/kirical/fullstack-javascript-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/1efddb4a1be856390907/maintainability" /></a>
 
