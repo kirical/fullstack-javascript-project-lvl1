@@ -1,5 +1,5 @@
 ###GitHub Actions
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![example workflow](https://github.com/kirical/fullstack-javascript-project-lvl1/actions/workflows/linter.yml/badge.svg)
 
 
 ### CodeClimate
