@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/kirical/fullstack-javascript-project-lvl1#readme",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brian-even.js"
   },
   "type": "module",
   "dependencies": {

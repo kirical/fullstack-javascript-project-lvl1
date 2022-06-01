@@ -1,3 +1,7 @@
+### aciinema
+https://asciinema.org/a/oF2Y16bukgdFrwUx6GW3NCDHy
+
+
 ###GitHub Actions
 ![example workflow](https://github.com/kirical/fullstack-javascript-project-lvl1/actions/workflows/linter.yml/badge.svg)
 
